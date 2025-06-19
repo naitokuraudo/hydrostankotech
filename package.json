@@ -1,8 +1,10 @@
 {
   "name": "hydrostankotech",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "license": "CC-BY-NC-4.0",
+  "description": "The company's website specializes in the development and production of turnkey hydraulic systems.",
+  "author": "naitokuraudo",
   "type": "module",
   "scripts": {
     "dev": "vite",
