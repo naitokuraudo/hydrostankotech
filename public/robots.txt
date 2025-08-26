@@ -1,0 +1,9 @@
+User-agent: Yandex
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_referer&yabizcmpgn&utm_ya_campaign&geoadv_search_yabs&etext&utm_candidate&_ym_debug /
+Allow: /
+Disallow: *?
+
+User-agent: *
+Allow: /
+
+Sitemap: https://hydrostankotech.ru/sitemap.xml
